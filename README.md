@@ -18,7 +18,7 @@ This Final Project demonstrates skills in:
 
 Recommended to use virtual environment.
 
-Python 3.9
+Python 3.11
 
 PostgreSQL
 
