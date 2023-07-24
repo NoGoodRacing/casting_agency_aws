@@ -1,18 +1,6 @@
 ## <span style="color:blue">Casting agency</span>
 -----------------
 Casting agency application can be used to store actors and movies data.
-This Final Project demonstrates skills in:
-- Coding in Python 3
-- Relational Database Architecture
-- Modeling Data Objects with SQLAlchemy
-- Internet Protocols and Communication
-- Developing a Flask API
-- Authentication and Access
-- Authentication with Auth0
-- Authentication in Flask
-- Role-Based Access Control (RBAC)
-- Testing Flask Applications
-- Deploying Applications
 
 ## Project Dependencies:
 
